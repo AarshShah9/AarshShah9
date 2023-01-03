@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a second year Software Engineering Major at the University of Calgary. I am super interested in technology, space, gaming and am in the proccess of learning & mastering numerous different programming languages and frameworks. 
+
+I am seeking internships for summer 2023!
+
+
+
 <!--
 **AarshShah9/AarshShah9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
