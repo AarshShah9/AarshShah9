@@ -2,7 +2,7 @@
 
 I am a second year Software Engineering Major at the University of Calgary. I am super interested in technology, space, gaming and am in the proccess of learning & mastering numerous different programming languages and frameworks. 
 
-I am seeking internships for summer 2023!
+<!-- I am seeking internships for summer 2023! -->
 
 
 
