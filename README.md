@@ -8,7 +8,8 @@ My main tech stacks are:
 - React & Next
 - .NET
 - Express
-- T3
+- Python
+- C/C++
 
 <!-- I am seeking internships for summer 2023! -->
 
