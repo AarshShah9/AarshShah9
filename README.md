@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a fourth-year Software Engineering Major at the University of Calgary. Currently interning @MedMe Health. I am super interested in technology, cars, and space, and am in the process of learning & mastering numerous different programming languages and frameworks. 
+I am a final year Software Engineering Major at the University of Calgary. Previously interned @MedMe Health. I am super interested in technology, cars, and space, and am in the process of learning & mastering numerous different programming languages and frameworks. 
 
 <!-- I am seeking internships for summer 2023! -->
 
