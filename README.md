@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a final year Software Engineering Major at the University of Calgary. Previously interned @MedMe Health. I am super interested in technology, cars, and space, and am in the process of learning & mastering numerous different programming languages and frameworks. 
+I am a final year Software Engineering Major at the University of Calgary. Previously interned @MedMe (YC W21), Arcurve & Olsen and am super interested in startups!
+
+On the personal side I like all things cars, and space!
 
 <!-- I am seeking internships for summer 2023! -->
 
