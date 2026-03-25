@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I am a final year Software Engineering Major at the University of Calgary. Previously interned @MedMe (YC W21), Arcurve & Olsen and am super interested in startups!
+I am a final year Software Engineering Major at the University of Calgary joining Uber in SF in the spring. Previously interned @MedMe (YC W21), Arcurve & Olsen AI!
 
-On the personal side I like all things cars, and space!
-
-<!-- I am seeking internships for summer 2023! -->
-
-
+On the personal side I like all things cars & space!
 
 <!--
 **AarshShah9/AarshShah9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
